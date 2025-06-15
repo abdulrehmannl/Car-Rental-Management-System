@@ -1,0 +1,15 @@
+Haval H6|1|SUV|4.2|src/Images/hav.jpg|12 km/l|180 km/h|5|Automatic|SUV|35000|2023-01-15
+Fortuner|1|SUV|4.6|src/Images/fort.jpg|9 km/l|190 km/h|7|Automatic|SUV|55000|2022-03-20
+Toyota Corolla|1|Sedan|4.4|src/Images/tc.jpg|14 km/l|195 km/h|5|Manual|Sedan|28000|2023-05-10
+Toyota Yaris|0|Sedan|4|src/Images/y.jpg|17 km/l|170 km/h|5|Automatic|Sedan|22000|2021-11-01
+Honda Vezel|1|SUV|4.5|src/Images/v.jpg|18 km/l|185 km/h|5|Automatic|Compact SUV|32000|2024-02-28
+Honda City|1|Sedan|4.3|src/Images/hcity.jpg|16 km/l|175 km/h|5|Manual|Sedan|24000|2023-07-22
+Honda Civic|0|Sedan|4.7|src/Images/hcivic.jpg|13 km/l|200 km/h|5|Automatic|Sport Sedan|38000|2024-01-05
+Changan Alsvin|0|Sedan|4.1|src/Images/alsvin.jpg|15 km/l|180 km/h|5|Manual|Subcompact|18000|2022-09-10
+Suzuki Swift|1|Hatchback|4|src/Images/s_swift.jpg|19 km/l|160 km/h|5|Manual|Hatchback|19000|2023-04-01
+Hyundai Tucson|1|SUV|4.3|src/Images/h_tucson.jpg|11 km/l|185 km/h|5|Automatic|Mid-size SUV|40000|2023-09-18
+Audi A4|1|Luxury Sedan|4.8|src/Images/a_a4.jpg|10 km/l|220 km/h|5|Automatic|Luxury Sedan|65000|2023-11-20
+BMW X5|0|Luxury SUV|4.9|src/Images/bmw_x5.jpg|8 km/l|240 km/h|5|Automatic|Luxury SUV|85000|2022-07-15
+Mercedes C-Class|1|Luxury Sedan|4.7|src/Images/merc_c.jpg|11 km/l|210 km/h|5|Automatic|Luxury Sedan|70000|2024-01-10
+Tesla Model 3|1|Electric|4.9|src/Images/tesla_m3.jpg|400 km range|225 km/h|5|Automatic|Electric Sedan|60000|2023-06-01
+Ford Mustang|1|Sports Car|4.7|src/Images/ford_mustang.jpg|9 km/l|250 km/h|2|Manual|Muscle Car|50000|2023-02-14
